@@ -1,13 +1,13 @@
-# EduMon - Smart School Monitoring System
+# EduMon - Smart School Tracker
 
 ## Features
-- **Parent Dashboard** – Track attendance, assignments, and notifications.
-- **Teacher Panel** – Manage student records and attendance.
+- **Student Dashboard** – Track attendance, assignments, and notifications.
+- **School Dashboard** – Manage student records and attendance.
 
 ## Tech Stack
-- **Frontend:** React.js / Angular
-- **Backend:** Node.js with Express
-- **Database:** MongoDB / PostgreSQL
+- **Frontend:** React.js 
+- **Backend:** Node.js with Express.js 
+- **Database:** MongoDB 
 
 ## Installation
 ### 1. Clone the Repository
